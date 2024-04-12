@@ -15,7 +15,7 @@ export default function Supply() {
           />
         </div>
         <div>
-          <h1 className="pt-28   text-nowrap text-center text-[13px]    ">
+          <h1 className="pt-28 font-bold md:font-semibold  text-nowrap text-center text-[9px]  md:text-[19px]  ">
             CA : 0X83C8EC69812460B6D139F6629BDB4C42417E4AAC
           </h1>
 
