@@ -1,5 +1,5 @@
 import Image from "next/image";
-
+import Footer from "./comp/footer";
 import Formula from "./comp/formula";
 import Heroo from "./comp/heroo";
 import Solution from "./comp/solution";
